@@ -1,0 +1,14 @@
+layout_spectrum: 0.6942263636738062
+typography_spectrum: 0.8346340551506728
+color:
+  brandStrength: 0.48414276889525354
+  lightness: 0.10901971394196153
+  saturation: 0.5616644658148289
+  rhythmicContrast: 0.773618457140401
+  brandColors:
+    - '#004358'
+    - '#1F8A70'
+    - '#BEDB39'
+    - '#FFE11A'
+    - '#FD7400'
+name: Stuhousing
